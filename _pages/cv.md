@@ -11,10 +11,6 @@ redirect_from:
 
 **Aulia Khilmi Rizgi**
 
-[LinkedIn](https://www.linkedin.com/in/rizgiak/) | [GitHub](https://github.com/rizgiak/)
-
-[Website](https://rizgiak.github.io) | [Email](mailto:auliakhilmirizgi@gmail.com)
-
 Engineer with experience in software engineering, AI technologies, and large-scale system development. Technical interests include robotics, autonomous systems, control engineering, machine learning, and intelligent automation. Motivated by developing technologies that connect digital intelligence with real-world applications.
 
 Education
@@ -39,26 +35,38 @@ Professional Experience
 
 [DAICEL Corporation](https://www.daicel.com/) (株式会社ダイセル), Himeji, Japan
 
-**AI Infrastructure Engineer, Full-Time** | Apr 2025 - Present
+<div class="cv-entry">
+  <strong>AI Infrastructure Engineer, Full-Time</strong>
+  <em class="cv-entry__date">Apr 2025 - Present</em>
+</div>
 
 - Built and scaled enterprise AI platforms that enable secure company-wide adoption of generative AI technologies.
 - Initiated and drove technical solutions across AI infrastructure, internal AI services, and emerging agentic AI systems, scaling enterprise adoption to 1,700+ Monthly Active Users (MAU) with sustained month-over-month growth while maintaining enterprise-grade security and governance.
 
-**AI Solution Engineer, Full-Time** | Apr 2023 - Mar 2025
+<div class="cv-entry">
+  <strong>AI Solution Engineer, Full-Time</strong>
+  <em class="cv-entry__date">Apr 2023 - Mar 2025</em>
+</div>
 
 - Developed AI-driven solutions for patent and scientific literature analysis, supporting intellectual property strategy through advanced language models, machine learning, and data-driven insights.
 - Collaborated with cross-functional stakeholders to identify opportunities for applying AI technologies to research and knowledge management processes.
 
 [QibiTech Inc.](https://qibitech.com/) (株式会社キビテク), Tokyo, Japan
 
-**Robotics Engineer, Part-Time** | Apr 2022 - Dec 2022
+<div class="cv-entry">
+  <strong>Robotics Engineer, Part-Time</strong>
+  <em class="cv-entry__date">Apr 2022 - Dec 2022</em>
+</div>
 
 - Developed an optimized trajectory motion planner for TurtleBot (differential drive), enabling smooth A-to-B navigation that was integrated into the active project.
 - Conducted system integration, testing, and motion verification for mobile robots on the core company platform.
 
 [Formulatrix Inc.](https://formulatrix.com/), Central Java, Indonesia
 
-**R&D Software Engineer, Full-Time** | Oct 2019 - Jan 2021
+<div class="cv-entry">
+  <strong>R&D Software Engineer, Full-Time</strong>
+  <em class="cv-entry__date">Oct 2019 - Jan 2021</em>
+</div>
 
 - Collaborated with Software, Firmware, Electronic, and Mechanic teams to build a robot that performs aspirate, dispense, and mixing operations in predefined microplates at microvolume scale.
 - Designed algorithms for liquid-handling robots in a Linux environment by implementing clean code and design patterns in C# and C++.
@@ -92,7 +100,7 @@ Achievements
 Selected Projects
 =================
 
-[Two-Fingers](https://formulatrix.com/liquid-handling-systems/fast-liquid-handler/) - In-Hand Manipulation, Master's Thesis (2021-2023)
+Two-Fingers - In-Hand Manipulation, Master's Thesis (2021-2023)
 
 - Developed a two-finger gripper hand capable of in-hand manipulation using active fingertip joints while moving an uncommon-shaped object from its initial to its desired position.
 - Increased the success ratio to 100% by analyzing force control, object surfaces, and pressure during sequential movement.

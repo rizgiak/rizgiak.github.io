@@ -50,6 +50,20 @@
 
 .page__content {
 
+  .cv-entry {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5em 1em;
+    margin-bottom: 0.75em;
+  }
+
+  .cv-entry__date {
+    margin-left: auto;
+    white-space: nowrap;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
