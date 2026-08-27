@@ -1,6 +1,6 @@
 ---
 title: "Two-Fingers In-Hand Manipulation"
-excerpt: "Tokyo Metropolitan University (<a href='https://sites.google.com/site/ntlabsite/'>Takesue Lab.</a> Aug 2021 - Present)<br/>Summary: Main research as my Master's Thesis<br/><img src='/images/project_two-fingers.gif' width='75%'>"
+excerpt: "Tokyo Metropolitan University (<a href='https://sites.google.com/site/ntlabsite/'>Takesue Lab.</a> Aug 2021 - Mar 2023)<br/>Summary: Master's Thesis<br/><img src='/images/project_two-fingers.gif' width='75%'>"
 collection: projects
 ---
 
