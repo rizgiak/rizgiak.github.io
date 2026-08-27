@@ -48,21 +48,30 @@
   font-size: $type-size-4;
 }
 
+#main .page__content .cv-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 0.5em 1em;
+  margin-bottom: 0.75em;
+}
+
+#main .page__content .cv-entry__date {
+  justify-self: end;
+  white-space: nowrap;
+}
+
+@media (max-width: 37.5em) {
+  #main .page__content .cv-entry {
+    grid-template-columns: 1fr;
+  }
+
+  #main .page__content .cv-entry__date {
+    justify-self: start;
+  }
+}
+
 .page__content {
-
-  .cv-entry {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.5em 1em;
-    margin-bottom: 0.75em;
-  }
-
-  .cv-entry__date {
-    margin-left: auto;
-    white-space: nowrap;
-  }
 
   h2 {
     padding-bottom: 0.5em;
