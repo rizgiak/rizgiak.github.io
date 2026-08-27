@@ -61,6 +61,12 @@
   white-space: nowrap;
 }
 
+#main .archive .cv-entry__location {
+  justify-self: end;
+  white-space: nowrap;
+  font-style: normal;
+}
+
 @media (max-width: 37.5em) {
   #main .archive .cv-entry {
     grid-template-columns: 1fr;

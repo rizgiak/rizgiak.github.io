@@ -16,16 +16,28 @@ Engineer with experience in software engineering, AI technologies, and large-sca
 Education
 ========
 
-[Tokyo Metropolitan University (TMU)](https://www.tmu.ac.jp/), Tokyo, Japan
+<div class="cv-entry">
+  <span><a href="https://www.tmu.ac.jp/">Tokyo Metropolitan University (TMU)</a></span>
+  <span class="cv-entry__location">Tokyo, Japan</span>
+</div>
 
-- Major: [Mechanical Systems Engineering](https://www.tmu.ac.jp/english/education/graduate/sd.html) (Master of Engineering), Apr 2021 - Mar 2023
+<div class="cv-entry">
+  <span>- Major: <a href="https://www.tmu.ac.jp/english/education/graduate/sd.html">Mechanical Systems Engineering</a> (Master of Engineering)</span>
+  <em class="cv-entry__date">Apr 2021 - Mar 2023</em>
+</div>
 - Study Program: Intelligent Mechanical Systems ([Takesue Lab.](https://sites.google.com/site/ntlabsite/home))
 - MSE Coursework: Adaptive Learning Control, Ubiquitous Robotics, Robot Intelligence, Robot System Design
 - Other Coursework: Shape Modelling, Applied Ergonomics, Interface Design
 
-[Politeknik Elektronika Negeri Surabaya (PENS / EEPIS)](https://www.pens.ac.id/), Surabaya, Indonesia
+<div class="cv-entry">
+  <span><a href="https://www.pens.ac.id/">Politeknik Elektronika Negeri Surabaya (PENS / EEPIS)</a></span>
+  <span class="cv-entry__location">Surabaya, Indonesia</span>
+</div>
 
-- Major: Electrical Engineering (Bachelor of Engineering), Jul 2015 - Aug 2019
+<div class="cv-entry">
+  <span>- Major: Electrical Engineering (Bachelor of Engineering)</span>
+  <em class="cv-entry__date">Jul 2015 - Aug 2019</em>
+</div>
 - Study Program: [Electronic Engineering](https://www.pens.ac.id/en/departemen-teknik-elektro/) (GPA: 3.48 of 4.00)
 - EE Coursework: Embedded System, Circuits, Logic Design, Robotics, Intelligent Control, Signal Processing
 - Programming Coursework: Algorithms, Advanced Programming, Image Processing, Networks
