@@ -235,7 +235,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.19.4-x86_64-linux-gnu)
+    nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -285,6 +285,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  nokogiri (~> 1.18.10)
 
 BUNDLED WITH
    2.4.20
