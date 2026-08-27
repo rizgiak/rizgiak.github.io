@@ -48,7 +48,7 @@
   font-size: $type-size-4;
 }
 
-#main .page__content .cv-entry {
+#main .archive .cv-entry {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: baseline;
@@ -56,17 +56,17 @@
   margin-bottom: 0.75em;
 }
 
-#main .page__content .cv-entry__date {
+#main .archive .cv-entry__date {
   justify-self: end;
   white-space: nowrap;
 }
 
 @media (max-width: 37.5em) {
-  #main .page__content .cv-entry {
+  #main .archive .cv-entry {
     grid-template-columns: 1fr;
   }
 
-  #main .page__content .cv-entry__date {
+  #main .archive .cv-entry__date {
     justify-self: start;
   }
 }
