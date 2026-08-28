@@ -1,6 +1,7 @@
 ---
 title: "Implementation of Balance Recovery by Slight Movement in Humanoid Robot Soccer"
 collection: publications
+category: conferences
 permalink: /publication/2019-01-17-implementation-of-balance
 excerpt: ''
 date: 2019-01-17

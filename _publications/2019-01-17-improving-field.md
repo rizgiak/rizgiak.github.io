@@ -1,6 +1,7 @@
 ---
 title: "Improving Field and Ball Detector for Humanoid Robot Soccer EROS Platform"
 collection: publications
+category: conferences
 permalink: /publication/2019-01-17-improving-field
 excerpt: ''
 date: 2019-01-17

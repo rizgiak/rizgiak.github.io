@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thank you very much for coming to my page!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Let me introduce a bit about myself. I am Aulia Khilmi Rizgi, and you can call me "Khilmi" or キルミ in Japanese pronunciation. I am a robotic enthusiast which currently pursuing a master's degree in mechanical systems engineering at Tokyo Metropolitan University. I love robotics since I know I can do and create everything through robots and automation, of course, programming was my first love. But since I know, I can solve problems with programming and make them real with robots, I tried to learn more about it. Moreover, I also love to work as a team because it will create a better result instead of doing everything by myself. I am a team player which always wants to create a better environment, a better approach, and a better result for everyone to create a very useful robots now and future.
+Let me introduce myself. I am Aulia Khilmi Rizgi, and you can call me Khilmi or キルミ in Japanese pronunciation. I have been passionate about robotics for more than a decade. Over the years, I have learned how robots and automation can turn ideas into something real. Programming was my first love, and it became even more meaningful when I learned that I could use it to solve problems and bring those solutions into the physical world.
+
+My interests include robot manipulation, autonomous systems, control engineering, computer vision, machine learning, and intelligent automation. I enjoy working with other people because sharing ideas and building things together often leads to better results. I am motivated by developing useful technologies that connect digital intelligence with real-world applications.
+
+I hold a Master of Engineering in Mechanical Systems Engineering from [Tokyo Metropolitan University](https://www.tmu.ac.jp/) and a Bachelor of Engineering in Electrical Engineering from [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/).
+
+Currently, I work as an AI Infrastructure Engineer at [DAICEL Corporation](https://www.daicel.com/) in Himeji, Japan. My role involves developing and supporting AI systems for practical use in the company, while continuing to explore how intelligent technologies can be applied to real-world problems.

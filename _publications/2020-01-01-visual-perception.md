@@ -1,6 +1,7 @@
 ---
 title: "Visual Perception System of EROS Humanoid Robot Soccer"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-visual-perception
 excerpt: ''
 date: 2020-01-01
